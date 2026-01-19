@@ -1,0 +1,4 @@
+product_category,total_transactions,total_quantity_sold,avg_price_per_unit,total_sales,avg_transaction_value
+Electronics,342,849,181.90,156905,458.79
+Clothing,351,894,174.29,155580,443.25
+Beauty,307,771,184.06,143515,467.48
